@@ -2,4 +2,6 @@ formdemo
 ===
 
 Experimenting with the `formotion` gem by Clay Allsopp.
+This version was built with RubyMotion version 2.14.
+
 
